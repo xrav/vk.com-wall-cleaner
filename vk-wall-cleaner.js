@@ -1,3 +1,5 @@
-for (var i=0;i<1000000;i++)	{
-	document.getElementsByClassName('post_delete_button fl_r')[i].onclick();
+var i=0;
+while (1==1)	{
+	document.getElementsByClassName('post_delete_button')[i].onclick();
+	i++;
 }
